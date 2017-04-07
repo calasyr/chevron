@@ -1,7 +1,7 @@
 # Chevron
 A Ruby gem that helps you capitalize on AWS Lambda.
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/chevron`. To experiment with that code, run `bin/console` for an interactive prompt.
+A chevron is a capital lambda in the Greek alphabet.  But for now, it will serve as the name of this gem, which will help with AWS Lambda.
 
 ## Installation
 
